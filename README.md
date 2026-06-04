@@ -9,7 +9,6 @@ Set alarms from your terminal. When time is up, you get an on-screen alert and *
 **Need:** [Python 3.8+](https://www.python.org/downloads/) · Windows for sound · Volume up
 
 ```bash
-cd "Better OA"
 pip install -r requirements.txt
 python AlarmClock.py
 ```
