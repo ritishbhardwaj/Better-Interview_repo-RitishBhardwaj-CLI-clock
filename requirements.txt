@@ -1,0 +1,8 @@
+# Alarm Clock — Python 3.8 or newer
+#
+# No third-party packages are required.
+# Install step (optional, for consistency with other projects):
+#   pip install -r requirements.txt
+#
+# Sound on Windows uses the built-in winsound module (ships with Python).
+# Turn up system volume and ensure speakers/headphones are connected.
